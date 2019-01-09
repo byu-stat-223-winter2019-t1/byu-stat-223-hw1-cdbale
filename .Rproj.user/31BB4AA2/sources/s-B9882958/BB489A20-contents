@@ -22,7 +22,7 @@ fib <- function (n) {
   
   else {
     
-    warning('The first two Fibonacci numbers are 1 and 1. Request at least 2')
+    warning('The first two Fibonacci numbers are 1 and 1. Request at least 2 numbers.')
     
   }
   
