@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546989966163.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2740959573",
+    "id" : "BB489A20",
+    "lastKnownWriteTime" : 1546994341,
+    "last_content_update" : 1546994341502,
+    "path" : "C:/Users/camer/OneDrive/STAT 223/byu-stat-223-hw1-cdbale/fib.R",
+    "project_path" : "fib.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

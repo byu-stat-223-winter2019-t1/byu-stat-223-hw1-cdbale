@@ -1,0 +1,29 @@
+fib <- function (n) {
+  
+  fibs <- c(1, 1)
+  
+  if (n > 2) {
+    
+    while (length(fibs) < n) {
+      
+      fibs <- append(fibs, sum(tail(fibs, 2)))
+      
+    }
+    
+    return(fibs)
+    
+  } 
+  
+  else if (n == 2) {
+    
+    return(fibs)
+    
+  } 
+  
+  else {
+    
+    warning('The first two Fibonacci numbers are 1 and 1. Request at least 2')
+    
+  }
+  
+}
