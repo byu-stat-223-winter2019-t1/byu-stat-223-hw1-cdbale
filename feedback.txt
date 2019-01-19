@@ -1,0 +1,17 @@
+
+1. Cheese
+
+Close, make sure your grouping is done correctly. Answer was 2007. -1
+
+2. Clothes
+
+Nice job! -0
+aggregate(clothes$Price,by = list(clothes$Body.Location), sd) might be an easier way without compromising significant figs.
+
+3. Fibonacci
+
+Nice job!
+
+9/10
+
+
